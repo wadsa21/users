@@ -1,0 +1,18 @@
+SECRET_KEY = 'django-insecure-)w-jc08l2fw5i)qm55_)1@a!nobw#e^wso8liw&98*6ut3i1n9'
+POSTGRES_DB=usersguidedb
+POSTGRES_USER=usersguidedb
+POSTGRES_PASSWORD=usersguidedb
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5432
+
+venv/
+.pylintrc
+__pycache__/
+
+.vscode
+.idea
+.env
+
+db.sqlite3
+media/
+debug.log
